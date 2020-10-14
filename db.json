@@ -1,0 +1,327 @@
+{
+	"recipe": [
+		{
+			"id": 1,
+			"name": "Pão Caseiro",
+			"mealType": {
+				"systemValue": 1,
+				"displayValue": "breakfast"
+			},
+			"serverTo": 3,
+			"difficultyLevel": {
+				"systemValue": 1,
+				"displayValue": "easy"
+			},
+			"ingredients": [
+				{
+					"id": 1,
+					"name": "farinha de trigo",
+					"amount": 1,
+					"unitAmout": "kg",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 2,
+					"name": "leite morno",
+					"amount": 1.5,
+					"unitAmout": "xícara",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 3,
+					"name": "água morna",
+					"amount": 0.5,
+					"unitAmout": "xícara",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 4,
+					"name": "óleo",
+					"amount": 0.5,
+					"unitAmout": "xícara",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 5,
+					"name": "açucar",
+					"amount": 4,
+					"unitAmout": "colheres (sopa)",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 6,
+					"name": "sal",
+					"amount": 1,
+					"unitAmout": "colher (sopa)",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 7,
+					"name": "ovos",
+					"amount": 2,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				},
+				{
+					"id": 8,
+					"name": "fermento biológico fresco",
+					"amount": 30,
+					"unitAmout": "g",
+					"alternativeIngredient": {
+						"id": 1,
+						"name": "fermento biológico seco",
+						"amount": 10,
+						"unitAmout": "kg",
+						"alternativeIngredient": null
+					}
+				}
+			],
+			"preparationSteps": [
+				{
+					"id": 1,
+					"description": "Em uma tigela, dissolva o fermento no açúcar e acrescente o sal, os ingredientes líquidos, os ovos e misture muito bem."
+				},
+				{
+					"id": 2,
+					"description": "Acrescente aos poucos a farinha até formar uma massa macia e sove bem a massa."
+				},
+				{
+					"id": 3,
+					"description": "Deixe a massa descansar por aproximadamente 1 hora."
+				},
+				{
+					"id": 4,
+					"description": "Após o crescimento, da a massa, enrole da forma que desejar, coloque nas formas e deixe crescer até dobrar de volume."
+				},
+				{
+					"id": 5,
+					"description": "Leve para assar em forno médio (200° C), preaquecido, por aproximadamente 30 minutos."
+				},
+				{
+					"id": 6,
+					"description": "Retire o pão do forno e pincele leite para a casca ficar mais macia."
+				}
+			],
+			"urlImage": "https://img.itdg.com.br/tdg/images/recipes/000/178/357/328308/328308_original.jpg?mode=crop&width=710&height=400"
+		},
+		{
+			"id": 2,
+			"name": "Doce de Abóbora",
+			"mealType": {
+				"systemValue": 2,
+				"displayValue": "lunch"
+			},
+			"serverTo": 5,
+			"difficultyLevel": {
+				"systemValue": 1,
+				"displayValue": "easy"
+			},
+			"ingredients": [
+				{
+					"id": 1,
+					"name": "Abóbora sem casca e cortada em pedaços médios",
+					"amount": 1,
+					"unitAmout": "kg",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 2,
+					"name": "açucar",
+					"amount": 2,
+					"unitAmout": "xícara de chá",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 3,
+					"name": "canela em pau",
+					"amount": 1,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				},
+				{
+					"id": 4,
+					"name": "cravos da índia",
+					"amount": 3,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				},
+				{
+					"id": 5,
+					"name": "coco ralado fresco ou seco a gosto",
+					"amount": null,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				}
+			],
+			"preparationSteps": [
+				{
+					"id": 1,
+					"description": "Em uma panela grande colocar a abóbora, o açúcar, a canela e os cravos."
+				},
+				{
+					"id": 2,
+					"description": "Levar para cozinhar em fogo brando com a panela tampada"
+				},
+				{
+					"id": 3,
+					"description": "Mexa sempre e amasse com uma colher de pau para desmanchar a abóbora. Quando ela estiver bem cozida, retire a canela e os cravos, e junte o coco."
+				},
+				{
+					"id": 4,
+					"description": "Deixe apurar mais um pouco e desligue o fogo."
+				},
+				{
+					"id": 5,
+					"description": "O doce não pode ficar seco, tem que ficar bem úmido."
+				}
+			],
+			"urlImage": "https://img.itdg.com.br/tdg/images/recipes/000/022/460/41376/41376_original.jpg?mode=crop&width=710&height=400"
+		},
+		{
+			"id": 3,
+			"name": "Mac N' Cheese",
+			"mealType": {
+				"systemValue": 2,
+				"displayValue": "supper"
+			},
+			"serverTo": 8,
+			"difficultyLevel": {
+				"systemValue": 2,
+				"displayValue": "intermediate"
+			},
+			"ingredients": [
+				{
+					"id": 1,
+					"name": "pacote de macarrão tipo Caracol",
+					"amount": 1,
+					"unitAmout": "pacote",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 2,
+					"name": "requeijão sabor cheddar",
+					"amount": 1,
+					"unitAmout": "pote",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 3,
+					"name": "Queijo ralado",
+					"amount": null,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				},
+				{
+					"id": 4,
+					"name": "Pimenta do reino a gosto",
+					"amount": null,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				},
+				{
+					"id": 5,
+					"name": "Noz moscada ",
+					"amount": null,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				},
+				{
+					"id": 6,
+					"name": "Sal a gosto",
+					"amount": null,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				}
+			],
+			"preparationSteps": [
+				{
+					"id": 1,
+					"description": "Coloque o macarrão para cozinhar. Uso o macarrão de caracol, que é o mais tradicional para esse tipo de que massa, mas o Penne ou o Parafuso também servem."
+				},
+				{
+					"id": 2,
+					"description": "Enquanto o macarrão cozinha, numa panela coloque o requeijão sabor cheddar, temperando com o sal, a pimenta-do-reino e a noz moscada."
+				},
+				{
+					"id": 3,
+					"description": "Misture o cheddar até borbulhar."
+				},
+				{
+					"id": 4,
+					"description": "Depois, com o macarrão pronto (meio al dente), misture-o muito bem com o molho de cheddar num refratário que possa ir ao forno."
+				},
+				{
+					"id": 5,
+					"description": "Despeje queijo ralado em cima do macarrão e leve o refratário ao forno até gratinar."
+				}
+			],
+			"urlImage": "https://img.itdg.com.br/tdg/images/recipes/000/156/642/337500/337500_original.jpg?mode=crop&width=710&height=400"
+		},
+		{
+			"id": 4,
+			"name": "Brigadeiro",
+			"mealType": {
+				"systemValue": 4,
+				"displayValue": "snacks"
+			},
+			"serverTo": 30,
+			"difficultyLevel": {
+				"systemValue": 1,
+				"displayValue": "easy"
+			},
+			"ingredients": [
+				{
+					"id": 1,
+					"name": "leite condensado",
+					"amount": 1,
+					"unitAmout": "caixa",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 2,
+					"name": "margarina sem sal",
+					"amount": 1,
+					"unitAmout": "colher (sopa)",
+					"alternativeIngredient": null
+				},
+				{
+					"id": 3,
+					"name": "Achocolatado",
+					"amount": 7,
+					"unitAmout": "colheres (sopa)",
+					"alternativeIngredient": [
+						{
+							"id": 1,
+							"name": "chocolate em pó",
+							"amount": 4,
+							"unitAmout": "colheres (sopa)",
+							"alternativeIngredient": null
+						}
+					]
+				},
+				{
+					"id": 4,
+					"name": "chocolate granulado",
+					"amount": null,
+					"unitAmout": null,
+					"alternativeIngredient": null
+				}
+			],
+			"preparationSteps": [
+				{
+					"id": 1,
+					"description": "Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó."
+				},
+				{
+					"id": 2,
+					"description": "Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela."
+				},
+				{
+					"id": 3,
+					"description": "Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
+				}
+			],
+			"urlImage": "https://img.itdg.com.br/tdg/images/recipes/000/000/114/75811/75811_original.jpg?mode=crop&width=710&height=400"
+		}
+	]
+}
