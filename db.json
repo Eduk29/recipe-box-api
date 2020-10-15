@@ -70,7 +70,7 @@
 					"alternativeIngredient": {
 						"id": 1,
 						"name": "fermento biológico seco",
-						"amount": 10,
+						"amount": 1,
 						"unitAmout": "kg",
 						"alternativeIngredient": null
 					}
