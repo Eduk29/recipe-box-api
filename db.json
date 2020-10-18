@@ -181,7 +181,7 @@
 			"id": 3,
 			"name": "Mac N' Cheese",
 			"mealType": {
-				"systemValue": 2,
+				"systemValue": 3,
 				"displayValue": "supper"
 			},
 			"serverTo": 8,
