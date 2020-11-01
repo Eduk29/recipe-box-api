@@ -17,63 +17,45 @@
 			"ingredients": [
 				{
 					"id": 1,
-					"name": "farinha de trigo",
-					"amount": 1,
-					"unitAmout": "kg",
+					"description": "1 Kg de farinha de trigo",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 2,
-					"name": "leite morno",
-					"amount": 1.5,
-					"unitAmout": "xícara",
+					"description": "1,5 xícara de leite morno",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 3,
-					"name": "água morna",
-					"amount": 0.5,
-					"unitAmout": "xícara",
+					"description": "0,5 xícara de água morna",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 4,
-					"name": "óleo",
-					"amount": 0.5,
-					"unitAmout": "xícara",
+					"description": "0,5 xícara de óleo",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 5,
-					"name": "açucar",
-					"amount": 4,
-					"unitAmout": "colheres (sopa)",
+					"description": "4 colheres (sopa) de açucar",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 6,
-					"name": "sal",
-					"amount": 1,
-					"unitAmout": "colher (sopa)",
+					"description": "1 colher (sopa) de sal",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 7,
-					"name": "ovos",
-					"amount": 2,
-					"unitAmout": null,
+					"description": "2 ovos",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 8,
-					"name": "fermento biológico fresco",
-					"amount": 30,
-					"unitAmout": "g",
+					"description": "30g de fermento biológico fresco",
 					"alternativeIngredient": {
 						"id": 1,
-						"name": "fermento biológico seco",
-						"amount": 1,
-						"unitAmout": "kg",
+						"description": "10g de fermento biológico seco",
 						"alternativeIngredient": null
 					}
 				}
@@ -123,37 +105,27 @@
 			"ingredients": [
 				{
 					"id": 1,
-					"name": "Abóbora sem casca e cortada em pedaços médios",
-					"amount": 1,
-					"unitAmout": "kg",
+					"description": "1kg de abóbora sem casca e cortada em pedaços médios",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 2,
-					"name": "açucar",
-					"amount": 2,
-					"unitAmout": "xícara de chá",
+					"description": "2 xícaras de chá de açucar",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 3,
-					"name": "canela em pau",
-					"amount": 1,
-					"unitAmout": null,
+					"description": "1 canela em pau",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 4,
-					"name": "cravos da índia",
-					"amount": 3,
-					"unitAmout": null,
+					"description": "3 cravos da índia",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 5,
-					"name": "coco ralado fresco ou seco a gosto",
-					"amount": null,
-					"unitAmout": null,
+					"description": "Coco ralado fresco ou seco a gosto",
 					"alternativeIngredient": null
 				}
 			],
@@ -198,44 +170,32 @@
 			"ingredients": [
 				{
 					"id": 1,
-					"name": "pacote de macarrão tipo Caracol",
-					"amount": 1,
-					"unitAmout": "pacote",
+					"description": "1 pacote de macarrão tipo Caracol",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 2,
-					"name": "requeijão sabor cheddar",
-					"amount": 1,
-					"unitAmout": "pote",
+					"description": "1 pote de requeijão sabor cheddar",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 3,
-					"name": "Queijo ralado",
-					"amount": null,
-					"unitAmout": null,
+					"description": "Queijo ralado a gosto",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 4,
-					"name": "Pimenta do reino a gosto",
-					"amount": null,
-					"unitAmout": null,
+					"description": "Pimenta do reino a gosto",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 5,
-					"name": "Noz moscada ",
-					"amount": null,
-					"unitAmout": null,
+					"description": "Noz moscada a gosto",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 6,
-					"name": "Sal a gosto",
-					"amount": null,
-					"unitAmout": null,
+					"description": "Sal a gosto",
 					"alternativeIngredient": null
 				}
 			],
@@ -280,38 +240,28 @@
 			"ingredients": [
 				{
 					"id": 1,
-					"name": "leite condensado",
-					"amount": 1,
-					"unitAmout": "caixa",
+					"description": "1 caixa de leite condensado",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 2,
-					"name": "margarina sem sal",
-					"amount": 1,
-					"unitAmout": "colher (sopa)",
+					"description": "1 colher (sopa) margarina sem sal",
 					"alternativeIngredient": null
 				},
 				{
 					"id": 3,
-					"name": "Achocolatado",
-					"amount": 7,
-					"unitAmout": "colheres (sopa)",
+					"description": "7 colheres (sopa) de achocolatado",
 					"alternativeIngredient": [
 						{
 							"id": 1,
-							"name": "chocolate em pó",
-							"amount": 4,
-							"unitAmout": "colheres (sopa)",
+							"description": "4 colheres (sopa) de chocolate em pó",
 							"alternativeIngredient": null
 						}
 					]
 				},
 				{
 					"id": 4,
-					"name": "chocolate granulado",
-					"amount": null,
-					"unitAmout": null,
+					"description": "Chocolate granulado",
 					"alternativeIngredient": null
 				}
 			],
