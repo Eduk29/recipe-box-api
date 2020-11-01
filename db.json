@@ -12,7 +12,7 @@
 			"difficultyLevel": {
 				"systemValue": 1,
 				"displayValueEnglish": "easy",
-				"displayValuePortugues": "fácil"
+				"displayValuePortuguese": "fácil"
 			},
 			"ingredients": [
 				{
@@ -193,7 +193,7 @@
 			"difficultyLevel": {
 				"systemValue": 2,
 				"displayValueEnglish": "intermediate",
-				"displayValuePortueguese": "intermediário"
+				"displayValuePortuguese": "intermediário"
 			},
 			"ingredients": [
 				{
