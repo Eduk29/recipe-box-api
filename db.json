@@ -5,12 +5,14 @@
 			"name": "Pão Caseiro",
 			"mealType": {
 				"systemValue": 1,
-				"displayValue": "breakfast"
+				"displayValueEnglish": "breakfast",
+				"displayValuePortuguese": "café da manhã"
 			},
 			"serverTo": 3,
 			"difficultyLevel": {
 				"systemValue": 1,
-				"displayValue": "easy"
+				"displayValueEnglish": "easy",
+				"displayValuePortugues": "fácil"
 			},
 			"ingredients": [
 				{
@@ -109,12 +111,14 @@
 			"name": "Doce de Abóbora",
 			"mealType": {
 				"systemValue": 2,
-				"displayValue": "lunch"
+				"displayValueEnglish": "lunch",
+				"displayValuePortuguese": "almoço"
 			},
 			"serverTo": 5,
 			"difficultyLevel": {
 				"systemValue": 1,
-				"displayValue": "easy"
+				"displayValueEnglish": "easy",
+				"displayValuePortuguese": "fácil"
 			},
 			"ingredients": [
 				{
@@ -182,12 +186,14 @@
 			"name": "Mac N' Cheese",
 			"mealType": {
 				"systemValue": 3,
-				"displayValue": "supper"
+				"displayValueEnglish": "supper",
+				"displayValuePortuguese": "jantar ou ceia"
 			},
 			"serverTo": 8,
 			"difficultyLevel": {
 				"systemValue": 2,
-				"displayValue": "intermediate"
+				"displayValueEnglish": "intermediate",
+				"displayValuePortueguese": "intermediário"
 			},
 			"ingredients": [
 				{
@@ -262,12 +268,14 @@
 			"name": "Brigadeiro",
 			"mealType": {
 				"systemValue": 4,
-				"displayValue": "snacks"
+				"displayValueEnglish": "snacks",
+				"displayValuePortuguese": "lanches, guloseimas e sobremesas"
 			},
 			"serverTo": 30,
 			"difficultyLevel": {
 				"systemValue": 1,
-				"displayValue": "easy"
+				"displayValueEnglish": "easy",
+				"displayValuePortuguese": "fácil"
 			},
 			"ingredients": [
 				{
@@ -322,6 +330,45 @@
 				}
 			],
 			"urlImage": "https://img.itdg.com.br/tdg/images/recipes/000/000/114/75811/75811_original.jpg?mode=crop&width=710&height=400"
+		}
+	],
+	"difficulty-level": [
+		{
+			"systemValue": 1,
+			"displayValueEnglish": "easy",
+			"displayValuePortuguese": "fácil"
+		},
+		{
+			"systemValue": 2,
+			"displayValueEnglish": "intermediate",
+			"displayValuePortuguese": "intermediário"
+		},
+		{
+			"systemValue": 3,
+			"displayValueEnglish": "hard",
+			"displayValuePortuguese": "difícil"
+		}
+	],
+	"meal-type": [
+		{
+			"systemValue": 1,
+			"displayValueEnglish": "breakfast",
+			"displayValuePortuguese": "café da manhã"
+		},
+		{
+			"systemValue": 2,
+			"displayValueEnglish": "lunch",
+			"displayValuePortuguese": "almoço"
+		},
+		{
+			"systemValue": 3,
+			"displayValueEnglish": "supper",
+			"displayValuePortuguese": "jantar ou ceia"
+		},
+		{
+			"systemValue": 4,
+			"displayValueEnglish": "snacks",
+			"displayValuePortuguese": "lanches, guloseimas e sobremesas"
 		}
 	]
 }
